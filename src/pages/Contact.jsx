@@ -48,7 +48,7 @@ const {alert, showAlert, hideAlert} = useAlert();
       }, [3000])
 
       
-    }).catch(() => {
+    }).catch((error) => {
       setIsLoading(false);
       setCurrentAnimation('idle');
       showAlert({show: true, text: 'I didnt receive your message.', type: 'danger'})
