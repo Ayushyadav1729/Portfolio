@@ -149,10 +149,10 @@ export const projects = [
     {
         iconUrl: roomify,
         theme: 'btn-back-red',
-        name: 'Roomify - AI-Powered 3D Floor Plan Renderer',
-        description: 'Roomify converts 2D floor plans into AI-generated top-down 3D renders.Users can sign in with Puter, upload floor plans, generate renders using AI, and manage their projects through a dashboard.',
+        name: 'Planora - AI-Powered 3D Floor Plan Renderer',
+        description: 'Planora converts 2D floor plans into AI-generated top-down 3D renders.Users can sign in with Puter, upload floor plans, generate renders using AI, and manage their projects through a dashboard.',
  
-        link: 'https://github.com/Ayushyadav1729/roomify',
+        link: 'https://planora-two-eta.vercel.app',
     },
     {
         iconUrl: blogging,
